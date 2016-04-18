@@ -3,13 +3,10 @@
   "~f" = "moveWordForward:";
   "~b" = "moveWordBackward:";
   "~d" = "deleteWordForward:";
-  "^v" = "pageUp:";
-  "~v" = "pageDown:";
   "~<" = "moveToBeginningOfDocument:";
   "~>" = "moveToEndOfDocument:";
   "~w" = "copy:";
   "^y" = "yank:";
-  "~t" = "transposeWords:";
   "^t" = "transpose:";
   "^p" = "moveUp:";
   "^n" = "moveDown:";
