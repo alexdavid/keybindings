@@ -10,4 +10,5 @@
   "^t" = "transpose:";
   "^p" = "moveUp:";
   "^n" = "moveDown:";
+  "^u" = "deleteToBeginningOfLine:";
 }
